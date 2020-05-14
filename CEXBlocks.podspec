@@ -8,14 +8,20 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CEXBlocks'
-  s.version          = '0.4.0'
+  s.version          = '0.5.0'
   s.summary          = 'Extension for default collection operations'
   s.homepage         = 'https://github.com/Advanced-Jewish-Technologies/CEXBlocks'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Dark Satyr' => 'isergiisf@gmail.com' }
+  s.requires_arc     = true
   s.source           = { :git => 'https://github.com/Advanced-Jewish-Technologies/CEXBlocks.git', :tag => s.version.to_s }
-
   s.ios.deployment_target = '8.0'
+  s.default_subspec = 'All'
+  s.subspec 'All' do |ss|
+    ss.dependency 'CEXBlocks/Core'
+  end
 
-  s.source_files = 'CEXBlocks/Classes/**/*'
+  s.subspec 'Core' do |ss|
+    ss.source_files = 'CEXBlocks/BlocksKit.h', "CEXBlocks/BKDefines.h", 'CEXBlocks/Core/*.{h,m}'
+  end
 end
