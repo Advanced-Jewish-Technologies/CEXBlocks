@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CEXBlocks_Tests' do
+  pod 'CEXBlocks', :path => '../'
+  
+  
+end
