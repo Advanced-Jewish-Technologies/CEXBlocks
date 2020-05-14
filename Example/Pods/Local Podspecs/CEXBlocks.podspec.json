@@ -1,18 +1,17 @@
 {
   "name": "CEXBlocks",
   "version": "0.1.0",
-  "summary": "A short description of CEXBlocks.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/Sergii Iastremskyi/CEXBlocks",
+  "summary": "Extension for default collection operations",
+  "homepage": "https://github.com/Advanced-Jewish-Technologies/CEXBlocks",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "Sergii Iastremskyi": "s.iastremskyi@wnb.com.ua"
+    "Dark Satyr": "isergiisf@gmail.com"
   },
   "source": {
-    "git": "https://github.com/Sergii Iastremskyi/CEXBlocks.git",
+    "git": "https://github.com/Advanced-Jewish-Technologies/CEXBlocks.git",
     "tag": "0.1.0"
   },
   "platforms": {
