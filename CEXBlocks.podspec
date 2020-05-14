@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CEXBlocks'
-  s.version          = '0.1.0'
+  s.version          = '0.4.0'
   s.summary          = 'Extension for default collection operations'
   s.homepage         = 'https://github.com/Advanced-Jewish-Technologies/CEXBlocks'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }

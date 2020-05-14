@@ -32,25 +32,25 @@
 		215205CC52B016C09C370A18984B1054 /* Pods-CEXBlocks_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CEXBlocks_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		4AACFC12ABD3FA6082D3B05C02BEA306 /* CEXBlocks-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CEXBlocks-prefix.pch"; sourceTree = "<group>"; };
-		5605484BD44DED641A61F4930BEA64AC /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		63BC314461B0DC3A825E80BC8467547F /* CEXBlocks.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = CEXBlocks.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		5605484BD44DED641A61F4930BEA64AC /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		63BC314461B0DC3A825E80BC8467547F /* CEXBlocks.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = CEXBlocks.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		6B23C0BFB7DF3E6FBB63DAE5F219D05B /* Pods-CEXBlocks_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CEXBlocks_Tests-Info.plist"; sourceTree = "<group>"; };
 		7C36B37D584370583F843537AC0A4A56 /* Pods-CEXBlocks_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CEXBlocks_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		86D78DB49C76D922E8A8A8C6FE09067F /* CEXBlocks.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CEXBlocks.debug.xcconfig; sourceTree = "<group>"; };
 		8EB45780DF0400ACB4555CCDCD773A43 /* Pods-CEXBlocks_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CEXBlocks_Tests-umbrella.h"; sourceTree = "<group>"; };
 		91849FD2B4E693E3E33B8C5DDD91D17C /* CEXBlocks-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CEXBlocks-dummy.m"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		B12B0105FCA30254998A8613BAB5824A /* CEXBlocks.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CEXBlocks.framework; path = CEXBlocks.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		B12B0105FCA30254998A8613BAB5824A /* CEXBlocks.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CEXBlocks.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B360F6A205E586863B76DF4392D00324 /* CEXBlocks.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = CEXBlocks.modulemap; sourceTree = "<group>"; };
 		B48AA51C727793C2521EFC57F265A226 /* Pods-CEXBlocks_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CEXBlocks_Tests-dummy.m"; sourceTree = "<group>"; };
 		BC1D3EB7D9685D17E96E6C8924070183 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = CEXBlocks/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		BC8FC4A3A94349FCF072D1B1535E43F2 /* Pods-CEXBlocks_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CEXBlocks_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		BD65820F73D20006678F717D7F9D7659 /* Pods-CEXBlocks_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CEXBlocks_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		BEC61BC96A060D7425C6D92E55E2F2BF /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		BEC61BC96A060D7425C6D92E55E2F2BF /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		CE1CA855BF4B6312EE9A67A7839BA829 /* CEXBlocks-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "CEXBlocks-Info.plist"; sourceTree = "<group>"; };
 		D1B7936A987D4BF74A06190FD70DD67E /* Pods-CEXBlocks_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CEXBlocks_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		D7CA0689E9EC3BF86CD6E72B4E523DD8 /* CEXBlocks-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CEXBlocks-umbrella.h"; sourceTree = "<group>"; };
-		F51232E0557D3006C6035A4B124288BA /* Pods_CEXBlocks_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CEXBlocks_Tests.framework; path = "Pods-CEXBlocks_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F51232E0557D3006C6035A4B124288BA /* Pods_CEXBlocks_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CEXBlocks_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -430,8 +430,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
