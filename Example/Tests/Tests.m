@@ -2,8 +2,8 @@
 //  CEXBlocksTests.m
 //  CEXBlocksTests
 //
-//  Created by Sergii Iastremskyi on 05/14/2020.
-//  Copyright (c) 2020 Sergii Iastremskyi. All rights reserved.
+//  Created by Dark Satyr on 05/14/2020.
+//  Copyright (c) 2020 Dark Satyr. All rights reserved.
 //
 
 @import XCTest;

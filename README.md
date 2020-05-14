@@ -1,6 +1,6 @@
 # CEXBlocks
 
-[![CI Status](https://img.shields.io/travis/Sergii Iastremskyi/CEXBlocks.svg?style=flat)](https://travis-ci.org/Sergii Iastremskyi/CEXBlocks)
+[![CI Status](https://img.shields.io/travis/Advanced-Jewish-Technologies/CEXBlocks.svg?style=flat)](https://travis-ci.org/Advanced-Jewish-Technologies/CEXBlocks)
 [![Version](https://img.shields.io/cocoapods/v/CEXBlocks.svg?style=flat)](https://cocoapods.org/pods/CEXBlocks)
 [![License](https://img.shields.io/cocoapods/l/CEXBlocks.svg?style=flat)](https://cocoapods.org/pods/CEXBlocks)
 [![Platform](https://img.shields.io/cocoapods/p/CEXBlocks.svg?style=flat)](https://cocoapods.org/pods/CEXBlocks)
@@ -22,7 +22,7 @@ pod 'CEXBlocks'
 
 ## Author
 
-Sergii Iastremskyi, s.iastremskyi@wnb.com.ua
+Dark Satyr, isergiisf@gmail.com
 
 ## License
 

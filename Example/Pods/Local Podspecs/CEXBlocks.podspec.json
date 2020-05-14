@@ -1,0 +1,22 @@
+{
+  "name": "CEXBlocks",
+  "version": "0.1.0",
+  "summary": "A short description of CEXBlocks.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Sergii Iastremskyi/CEXBlocks",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sergii Iastremskyi": "s.iastremskyi@wnb.com.ua"
+  },
+  "source": {
+    "git": "https://github.com/Sergii Iastremskyi/CEXBlocks.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CEXBlocks/Classes/**/*"
+}

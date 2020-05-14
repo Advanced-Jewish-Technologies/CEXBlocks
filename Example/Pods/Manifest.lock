@@ -1,0 +1,16 @@
+PODS:
+  - CEXBlocks (0.1.0)
+
+DEPENDENCIES:
+  - CEXBlocks (from `../`)
+
+EXTERNAL SOURCES:
+  CEXBlocks:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CEXBlocks: 42801deebe7559475cb122d9ce5c2cd9f6be48ff
+
+PODFILE CHECKSUM: f3ebc182065144eb875d8686b2a1eb55c772ce4d
+
+COCOAPODS: 1.9.0
