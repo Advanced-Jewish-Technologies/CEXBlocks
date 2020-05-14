@@ -33,23 +33,23 @@ FOUNDATION_EXPORT double BlocksKitVersionNumber;
 //! Project version string for BlocksKit.
 FOUNDATION_EXPORT const unsigned char BlocksKitVersionString[];
 
-#import <BlocksKit/BKDefines.h>
-#import <BlocksKit/BKMacros.h>
-#import <BlocksKit/NSArray+BlocksKit.h>
-#import <BlocksKit/NSDictionary+BlocksKit.h>
-#import <BlocksKit/NSIndexSet+BlocksKit.h>
-#import <BlocksKit/NSInvocation+BlocksKit.h>
-#import <BlocksKit/NSNumber+BlocksKit.h>
-#import <BlocksKit/NSMapTable+BlocksKit.h>
-#import <BlocksKit/NSMutableArray+BlocksKit.h>
-#import <BlocksKit/NSMutableDictionary+BlocksKit.h>
-#import <BlocksKit/NSMutableIndexSet+BlocksKit.h>
-#import <BlocksKit/NSMutableOrderedSet+BlocksKit.h>
-#import <BlocksKit/NSMutableSet+BlocksKit.h>
-#import <BlocksKit/NSObject+BKAssociatedObjects.h>
-#import <BlocksKit/NSObject+BKBlockExecution.h>
-#import <BlocksKit/NSObject+BKBlockObservation.h>
-#import <BlocksKit/NSOrderedSet+BlocksKit.h>
-#import <BlocksKit/NSSet+BlocksKit.h>
-#import <BlocksKit/NSTimer+BlocksKit.h>
+#import <CEXBlocks/BKDefines.h>
+#import <CEXBlocks/BKMacros.h>
+#import <CEXBlocks/NSArray+BlocksKit.h>
+#import <CEXBlocks/NSDictionary+BlocksKit.h>
+#import <CEXBlocks/NSIndexSet+BlocksKit.h>
+#import <CEXBlocks/NSInvocation+BlocksKit.h>
+#import <CEXBlocks/NSNumber+BlocksKit.h>
+#import <CEXBlocks/NSMapTable+BlocksKit.h>
+#import <CEXBlocks/NSMutableArray+BlocksKit.h>
+#import <CEXBlocks/NSMutableDictionary+BlocksKit.h>
+#import <CEXBlocks/NSMutableIndexSet+BlocksKit.h>
+#import <CEXBlocks/NSMutableOrderedSet+BlocksKit.h>
+#import <CEXBlocks/NSMutableSet+BlocksKit.h>
+#import <CEXBlocks/NSObject+BKAssociatedObjects.h>
+#import <CEXBlocks/NSObject+BKBlockExecution.h>
+#import <CEXBlocks/NSObject+BKBlockObservation.h>
+#import <CEXBlocks/NSOrderedSet+BlocksKit.h>
+#import <CEXBlocks/NSSet+BlocksKit.h>
+#import <CEXBlocks/NSTimer+BlocksKit.h>
 
